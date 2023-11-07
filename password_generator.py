@@ -1,3 +1,7 @@
+'''
+This function generates passwords between min_length and max_length.
+Letters are always included, while numbers and special characters can be optional.
+'''
 
 import random
 import string
