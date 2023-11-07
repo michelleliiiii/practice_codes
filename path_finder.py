@@ -1,3 +1,8 @@
+'''
+The function "find_path" receives a 2D maze where "#" are walls, "O" is the entrance, and "X" is the exit.
+It will print out every step the code takes to find the path between "O" and "X".
+'''
+
 import curses
 from curses import wrapper
 import queue
