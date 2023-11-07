@@ -1,3 +1,3 @@
 # practice_projects
 
-# This repo contains simple projects wrote for practice purpose.
+### This repo contains simple projects written for practice purposes.
