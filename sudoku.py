@@ -1,3 +1,9 @@
+'''
+generate_board(n): generate a 9 by 9 sudoku (2D list) that has n spaces on it
+solve(board): find the solution for any sudoku using back-tracking
+'''
+
+
 import random
 
 board = [
