@@ -1,3 +1,8 @@
+'''
+The class Sudoku() generates a sudoku GUI using tkinter module.
+It generates sudoku at three difficulty levels and can generate solutions.
+'''
+
 import sudoku as s
 from tkinter import *
 import copy
